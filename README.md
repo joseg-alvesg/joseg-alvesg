@@ -14,10 +14,31 @@
 
 
 <div style="display: inline_block">  Main Skills:<br>
-  <img align="center" alt="Badge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Badge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Badge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Badge-React" height="30" width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1&ipt=bc7de8e2c65b8a886cb35b23ce5bb31f5ba7e7728dc3e6ae1ffb05c9f01d7631&ipo=images">
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+  
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+  
+  <!---
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+  
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)
+  
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white)
+
+  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)
+  --!>
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=120&section=footer"/>
