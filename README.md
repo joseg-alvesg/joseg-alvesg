@@ -9,7 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseg-alvesg&layout=compact&hide_border=true&title_color=B026FF&text_color=B026FF&bg_color=0d1117" />
 </div>
 
-<br>
+##
 
 <div>
 
@@ -77,13 +77,24 @@
   <img src="https://github-profile-trophy.vercel.app/?username=joseg-alvesg&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<section>
+##
+
+<section align="center" >
+
   <span>Contacts:</span>
 
   <a href="mailto:cinhoalves85@gmail.com" >
-  <img src="https://logolook.net/wp-content/uploads/2021/06/Symbol-Gmail.png" width="40px" />
+  <img src="https://logolook.net/wp-content/uploads/2021/06/Symbol-Gmail.png" width="65px" />
   </a>
-  <img src="https://1000marcas.net/wp-content/uploads/2021/06/Telegram-Logo-2013-2048x1288.png" width="40px" />
+  <a href="https://t.me/jose_alvesCinho">
+  <img src="https://1000marcas.net/wp-content/uploads/2021/06/Telegram-Logo-2013-2048x1288.png" width="65px" />
+  </a>
+  <a href="https://wa.link/ea0wve'">
+  <img src="https://followthehumming.files.wordpress.com/2013/05/whatsapp-logo.png" width="40px" />
+  </a>
+  <a href="https://www.linkedin.com/in/joseg-alves/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" style="margin-left: 10px"></img>
+  </a>
 
 </section>
 
