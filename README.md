@@ -18,38 +18,51 @@
 
 <div>
 
-  <section>
+  <section style="border-bottom: 1px solid white; margin: 10px 0">
 
-  <span>Tecnologies and tools:</span>
+  <span style="font-size: 20px; font-weight: 800">Tecnologies and tools:</span>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="background-color: white; border-radius: 50%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40px" style="background-color: white; border-radius: 30%" />
+  
+  </section>
+
+<!-- comment  -->
+
+  <section style="border-bottom: 1px solid white; margin: 10px 0">
+
+  <span style="font-size: 20px; font-weight: 800">Focusing and improving:</span>
 
 
-  <section>
-
-  <span>Focusing and improving:</span>
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
+
+
 
   </section>
 
-  <section>
+  <section style="border-bottom: 1px solid white; margin: 10px 0">
 
-  <span>Current desktop:</span>
+  <span style="font-size: 20px; font-weight: 800">Current desktop:</span>
 
-  <i class="devicon-slack-plain" style="color: blue"></i>
-  <i class="devicon-linux-plain"></i>
-  <i class="devicon-chrome-plain colored"></i>
-  <i class="devicon-firefox-plain colored"></i>
-  <i class="devicon-visualstudio-plain colored"></i>
-  <i class="devicon-vim-plain colored"></i>
-  <i class="devicon-bash-plain" style="color: purple"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px" style="background-color: white; border-radius: 50%" />
   <i class="lni lni-notion" style="font-size: 34px; color: lightgray"></i>
 
   </section>
 
-  <i class="devicon-npm-original-wordmark colored"></i>
-  <i class="devicon-nodejs-plain colored"></i>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
+
 
 
 </div>
