@@ -18,39 +18,19 @@
 
 <div>
 
-  <style>
-    i{
-      font-size: 40px;
-      margin: 3px;
-    }
-    span{
-      font-size: 20px;
-      font-weight: 700;
-    }
-    section:hover{
-      border-bottom: 1px solid white;
-      margin: 20px auto;
-    }
-  </style>
-
   <section>
 
   <span>Tecnologies and tools:</span>
 
-  <i class="devicon-html5-plain colored"></i>
-  <i class="devicon-github-original"></i>
-  <i class="devicon-git-plain colored"></i>
-  <i class="devicon-jest-plain colored"></i>
-  <i class="devicon-markdown-original"></i>
-  </section>
 
   <section>
 
   <span>Focusing and improving:</span>
 
-  <i class="devicon-react-original colored"></i>
-  <i class="devicon-javascript-plain colored"></i>
-  <i class="devicon-css3-plain colored"></i>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
+
   </section>
 
   <section>
