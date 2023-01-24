@@ -1,10 +1,5 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=120&section=header"/> -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<link href="https://cdn.lineicons.com/4.0/lineicons.css" rel="stylesheet" />
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B026FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+G.+Alves+Gomes;I+from+Brasil,+PE;I+study+web+development+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -18,7 +13,7 @@
 
 <div>
 
-  <section style="border-bottom: 1px solid white; margin: 10px 0">
+  <section>
 
   <span style="font-size: 20px; font-weight: 800">Tecnologies and tools:</span>
 
@@ -30,9 +25,9 @@
   
   </section>
 
-<!-- comment  -->
+##
 
-  <section style="border-bottom: 1px solid white; margin: 10px 0">
+  <section>
 
   <span style="font-size: 20px; font-weight: 800">Focusing and improving:</span>
 
@@ -45,7 +40,9 @@
 
   </section>
 
-  <section style="border-bottom: 1px solid white; margin: 10px 0">
+  ##
+
+  <section>
 
   <span style="font-size: 20px; font-weight: 800">Current desktop:</span>
 
@@ -56,19 +53,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px" style="background-color: white; border-radius: 50%" />
-  <i class="lni lni-notion" style="font-size: 34px; color: lightgray"></i>
+  <img src="https://embed.filekitcdn.com/e/5b3wvHuecPnggBPiUYL5kh/n7yMbtNP81q6qUXdXRJxsT" width="40px"/>
 
   </section>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
+##
 
+  <section>
 
+  <span style="font-size: 20px; font-weight: 800">Other tools:</span>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40px"/>
+
+  </section>
+
+##
 
 </div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joseg-alvesg&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+<section>
+  <span>Contacts:</span>
+
+  <a href="mailto:cinhoalves85@gmail.com" >
+  <img src="https://logolook.net/wp-content/uploads/2021/06/Symbol-Gmail.png" width="40px" />
+  </a>
+  <img src="https://1000marcas.net/wp-content/uploads/2021/06/Telegram-Logo-2013-2048x1288.png" width="40px" />
+
+</section>
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=120&section=footer"/> -->
