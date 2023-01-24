@@ -13,30 +13,52 @@
 </p>
 
 
-<div style="display: inline_block">  Main Skills:<br>
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-  
+<div align="center" class="tree">
+  <style>
+    .tree{
+      display: flex;
+      width: 100vw;
+    }
+    .Knowledges, .tools{
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      text-align: center;
+      width: 33%;
+      border: 1px solid black;
+    }
+  </style>
+  <div class="Knowledges">
+
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-  
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+
   ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
   
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-  
+
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-  
-  <!---
+
+  </div>
+
+  <div class="tools">
+
   ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
   
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)
+
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)
+  
+  </div>
+  <!---
   
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white)
 
   ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-  
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)
   --!>
 </div>
 
