@@ -98,6 +98,6 @@
 
 </section>
 
-<!-- ![snake animation](https://github.com/joseg-alves/joseg-alvesg/blob/output/github-contribution-grid-snake2.svg) -->
+![Snake animation](https://github.com/joseg-alvesg/joseg-alvesg/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=120&section=footer"/>
