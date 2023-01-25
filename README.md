@@ -1,4 +1,4 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=120&section=header"/> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B026FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+G.+Alves+Gomes;I+from+Brasil,+PE;I+study+web+development+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -98,4 +98,4 @@
 
 </section>
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=120&section=footer"/> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=120&section=footer"/>
