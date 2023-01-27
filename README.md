@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40px" style="background-color: white; border-radius: 30%" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" />
     <img src="https://testing-library.com/img/octopus-64x64.png" width="40px" />
   
   </section>
@@ -67,6 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" />
 
   </section>
 
@@ -98,7 +100,10 @@
   </a>
 
 </section>
+<div align="center">
 
 ![Snake animation](https://github.com/joseg\-alvesg/joseg\-alvesg/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=120&section=footer"/>
