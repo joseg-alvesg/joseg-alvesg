@@ -12,6 +12,17 @@
 ##
 
 <div>
+  
+  
+  <section>
+
+  <span style="font-size: 20px; font-weight: 800">Better Knowledge: </span>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+
+  </section>
+  
+  ##
 
   <section>
 
@@ -31,17 +42,6 @@
   </section>
 
 ##
-
-  <section>
-
-  <span style="font-size: 20px; font-weight: 800">Focusing and improving:</span>
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-
-  </section>
-
-  ##
 
   <section>
 
