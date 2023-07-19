@@ -1,11 +1,3 @@
-## Olá, Bem vindo ao meu github!
-
-Sou José(zé), desenvolvedor FullStack, tenho 25 anos, Natural de Recife/PE, Naturalmente apaixonado por jogos(rpg principalmente),
-Filmes, Músicas e Tecnológia.
-
-Tenho um desejo imenso de trazer soluções para problemas reais, e acredito que a tecnologia é uma das melhores formas de fazer isso.
-Prestes a cursar superior dentro dos próximos 2 anos espero poder contribuir com a comunidade e com o mundo com o que eu sei e o que eu vou aprender.
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joseg-alvesg&show_icons=true&count_private=true&hide_border=true&title_color=B026FF&icon_color=B026FF&text_color=c9d1d9&bg_color=0d1117" alt="José Alves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseg-alvesg&layout=compact&hide_border=true&title_color=B026FF&text_color=B026FF&bg_color=0d1117" />
