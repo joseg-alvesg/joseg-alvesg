@@ -107,7 +107,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joseg-alvesg&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=B026FF&icon_color=B026FF&text_color=c9d1d9&bg_color=0d1117" alt="José Alves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseg-alvesg&layout=compact&hide_border=true&title_color=B026FF&text_color=B026FF&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=joseg_alvesg&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=B026FF&icon_color=B026FF&text_color=c9d1d9&bg_color=0d1117&hide=prolog,cfg,scheme,systemd,roff,go,image+(png),http,pdf,pacmanconf,toml,gitignore,assembly,remind,ca65+assembler,sshconfig,tsconfig,crontab,lir,csv,desktop,xml,objective-c,text,tmux,gdscript,apache+config,tsql,java+properties,ezhil,conf"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=joseg_alvesg&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=B026FF&icon_color=B026FF&text_color=c9d1d9&bg_color=0d1117&hide=prolog,cfg,scheme,systemd,roff,go,image+(png),http,pdf,pacmanconf,toml,gitignore,assembly,remind,ca65+assembler,sshconfig,tsconfig,crontab,lir,csv,desktop,objective-c,text,tmux,gdscript,apache+config,tsql,java+properties,ezhil,conf"/>
 
 </div>
  <p align="center">
