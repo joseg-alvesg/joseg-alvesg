@@ -2,7 +2,7 @@
 
 # José Alves <img src="https://raw.githubusercontent.com/gilbarbara/logos/f133ea921b012052000964e3feb023b57146895b/logos/bash-icon.svg" width="30px" /> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FCmr1OMJ2FN0B2%2Fgiphy.gif&f=1&nofb=1&ipt=1bc9926927fd7f010483d6ece4fb1d60881282a0b3e1a0e8736679c8f98ebfb4&ipo=images" width="200px" align="right" />
 
-### Formado em full-stack 
+### Web developer 
 
 <span>**Contacts:**</span>
 
