@@ -4,6 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source** projects.
 - 💬 Ask me about **JavaScript** and **TypeScript**.
+- 📚 I'm currently studying **Computer Science** at **UFBRA**.
 - 📫 How to reach me: **josegalvesg@gmail.com**.
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: **I love animals 🐶🐱** and **Music 🎵**.
